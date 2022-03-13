@@ -1,0 +1,67 @@
+{
+    "studenten": [
+      { 
+        "geboortedatum": "27-2-1997",
+        "woonplaats": "ORANJE",
+        "emailadres": "jpieter@st.mail.nl",
+        "achternaam": "Jan",
+        "voornaam": "Pieter"
+      },
+      {           
+        "geboortedatum": "20-9-1998",
+        "woonplaats": "ZUIDLAREN",
+        "emailadres": "ibeen@st.mail.nl",
+        "achternaam": "Been",
+        "voornaam": "Isa"
+      },
+      {
+        "geboortedatum": "2-5-1998",
+        "woonplaats": "GRONINGEN",
+        "emailadres": "hbod@st.mail.nl",
+        "achternaam": "Bod",
+        "voornaam": "Hans"
+      },
+      {
+        "geboortedatum": "1-5-1998",
+        "woonplaats": "EELDE",
+        "emailadres": "rboer@st.mail.nl",
+        "achternaam": "Boer",
+        "voornaam": "Rob"
+      },
+      {
+        "geboortedatum": "31-7-1997",
+        "woonplaats": "ZUIDBROEK",
+        "emailadres": "jbol@st.mail.nl",
+        "achternaam": "Bol",
+        "voornaam": "Jef"
+      },
+      {
+        "geboortedatum": "16-3-1998",
+        "woonplaats": "HOOGEZAND",
+        "emailadres": "jbos@st.mail.nl",
+        "achternaam": "Bos",
+        "voornaam": "Jan"
+      },
+      {
+        "geboortedatum": "15-11-1998",
+        "woonplaats": "GASSELTE",
+        "emailadres": "kbosga@st.mail.nl",
+        "achternaam": "Bosga",
+        "voornaam": "Kim"
+      },
+      {
+        "geboortedatum": "17-6-1999",
+        "woonplaats": "MEEDEN",
+        "emailadres": "pdans@st.mail.nl",
+        "achternaam": "Dans",
+        "voornaam": "Peter"
+      },
+      {
+        "geboortedatum": "1-4-1998",
+        "woonplaats": "WINSUM",
+        "emailadres": "rpieter@st.mail.nl",
+        "achternaam": "Pieter",
+        "voornaam": "Rik"
+      }
+    ]
+}
